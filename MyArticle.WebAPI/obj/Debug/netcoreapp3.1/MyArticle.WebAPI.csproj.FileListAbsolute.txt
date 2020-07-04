@@ -59,3 +59,5 @@ C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\st
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.dll
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.pdb
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.genruntimeconfig.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.Business.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.Business.pdb

@@ -13,6 +13,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using MyArticle.Business.Abstract;
+using MyArticle.Business.Concrete;
 using MyArticle.DataAccess;
 using MyArticle.DataAccess.Abstract;
 using MyArticle.DataAccess.Concrete;
@@ -33,6 +35,7 @@ namespace MyArticle.WebAPI
         {
             services.AddScoped<DbContext, MyContext>();
             services.AddScoped(typeof(IEntityRepository<>), typeof(EntityRepositoryBase<>));
+            services.AddScoped(typeof(IArticleService), typeof(ArticleManager));
             services.AddScoped(typeof(IArticleDal), typeof(ArticleDal));
             services.AddScoped(typeof(IAuthorDal), typeof(AuthorDal));
             services.AddScoped(typeof(ICategoryDal), typeof(CategoryDal));

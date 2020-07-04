@@ -1303,6 +1303,20 @@
           "bin/placeholder/FrameworkCore.dll": {}
         }
       },
+      "MyArticle.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MyArticle.DataAccess": "1.0.0",
+          "MyArticle.EntityFramework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyArticle.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyArticle.Business.dll": {}
+        }
+      },
       "MyArticle.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5043,6 +5057,11 @@
       "path": "../FrameworkCore/FrameworkCore.csproj",
       "msbuildProject": "../FrameworkCore/FrameworkCore.csproj"
     },
+    "MyArticle.Business/1.0.0": {
+      "type": "project",
+      "path": "../MyArticle.Business/MyArticle.Business.csproj",
+      "msbuildProject": "../MyArticle.Business/MyArticle.Business.csproj"
+    },
     "MyArticle.DataAccess/1.0.0": {
       "type": "project",
       "path": "../MyArticle.DataAccess/MyArticle.DataAccess.csproj",
@@ -5059,6 +5078,7 @@
       "Microsoft.EntityFrameworkCore >= 3.1.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.5",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.5",
+      "MyArticle.Business >= 1.0.0",
       "MyArticle.DataAccess >= 1.0.0"
     ]
   },
@@ -5092,6 +5112,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.Business\\MyArticle.Business.csproj": {
+              "projectPath": "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.Business\\MyArticle.Business.csproj"
+            },
             "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.DataAccess\\MyArticle.DataAccess.csproj": {
               "projectPath": "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.DataAccess\\MyArticle.DataAccess.csproj"
             }
