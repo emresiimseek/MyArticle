@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H6cMiQndwmfxpvoBR+bwBbvPWMVJHawBlnmvZIosHY7MJGUmRC5VUvn6UroS079rGR0HvzOR3P+R1DQ0bQlqow==",
+  "dgSpecHash": "2l5lB+cAJQH2eC7IwV232TCtf8RBGS1Y4IyiDfrB7/KrRQdTd6GHI506/DZGhKhzEAT8nkftTT3EAUPmj7AoZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.DataAccess\\MyArticle.DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\fakerdotnet\\1.0.7\\fakerdotnet.1.0.7.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

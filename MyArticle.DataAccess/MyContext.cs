@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MyArticle.DataAccess.Configurations;
+using MyArticle.DataAccess.Initilazers;
 using MyArticle.EntityFramework.Concete;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,10 @@ namespace MyArticle.DataAccess
             modelBuilder.ApplyConfiguration(new ArticleConfiguration());
             modelBuilder.ApplyConfiguration(new AuthorConfiguration());
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+
+            modelBuilder.ApplyConfiguration(new AuthorInitilazer());
+            modelBuilder.ApplyConfiguration(new CategoryInitilazers());
+            modelBuilder.ApplyConfiguration(new ArticleInitilazers());
         }
     }
 }

@@ -109,6 +109,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "FakerDotNet": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.5, )"
