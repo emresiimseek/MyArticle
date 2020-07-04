@@ -3,6 +3,6 @@ C:\Users\Emre\source\repos\MyArticle\FrameworkCore\bin\Debug\netcoreapp3.1\Frame
 C:\Users\Emre\source\repos\MyArticle\FrameworkCore\bin\Debug\netcoreapp3.1\FrameworkCore.pdb
 C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.AssemblyInfoInputs.cache
 C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.AssemblyInfo.cs
-C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.csproj.CoreCompileInputs.cache
 C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.dll
 C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.pdb
+C:\Users\Emre\source\repos\MyArticle\FrameworkCore\obj\Debug\netcoreapp3.1\FrameworkCore.csproj.CoreCompileInputs.cache
