@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using FrameworkCore.Abstract;
 using FrameworkCore.Concrete;
+using FrameworkCore.Utilities.Mappings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -39,6 +40,7 @@ namespace MyArticle.WebAPI
             services.AddScoped(typeof(IArticleDal), typeof(ArticleDal));
             services.AddScoped(typeof(IAuthorDal), typeof(AuthorDal));
             services.AddScoped(typeof(ICategoryDal), typeof(CategoryDal));
+            services.AddScoped(typeof(IAutoMapperBase), typeof(AutoMapperHelpers));
             services.AddDbContext<MyContext>(options =>
             {
                 options.UseSqlServer(Configuration["ConnectionStrings:SqlConStr"].ToString(), o =>

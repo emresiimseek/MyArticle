@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2l5lB+cAJQH2eC7IwV232TCtf8RBGS1Y4IyiDfrB7/KrRQdTd6GHI506/DZGhKhzEAT8nkftTT3EAUPmj7AoZw==",
+  "dgSpecHash": "9eSgkOofyzbqKrgKdZH8NgQjvYIi6HZSJC5JMPErOA3P/rqhtDHiTwxcJYClh56FSdY2iXEzmlTy1C82iJSFig==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emre\\source\\repos\\MyArticle\\MyArticle.DataAccess\\MyArticle.DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\fakerdotnet\\1.0.7\\fakerdotnet.1.0.7.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -60,7 +61,7 @@
     "C:\\Users\\Emre\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Emre\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

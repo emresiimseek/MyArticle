@@ -6,4 +6,3 @@ C:\Users\Emre\source\repos\MyArticle\MyArticle.EntityFramework\obj\Debug\netcore
 C:\Users\Emre\source\repos\MyArticle\MyArticle.EntityFramework\obj\Debug\netcoreapp3.1\MyArticle.EntityFramework.csproj.CoreCompileInputs.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.EntityFramework\obj\Debug\netcoreapp3.1\MyArticle.EntityFramework.dll
 C:\Users\Emre\source\repos\MyArticle\MyArticle.EntityFramework\obj\Debug\netcoreapp3.1\MyArticle.EntityFramework.pdb
-C:\Users\Emre\source\repos\MyArticle\MyArticle.EntityFramework\obj\Debug\netcoreapp3.1\MyArticle.EntityFramework.csprojAssemblyReference.cache
