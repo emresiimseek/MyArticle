@@ -1,0 +1,14 @@
+﻿using MyArticle.EntityFramework.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MyArticle.EntityFramework.Concete
+{
+    public class Category : IEntity
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public virtual List<Article> Articles { get; set; }
+    }
+}
