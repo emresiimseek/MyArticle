@@ -1,0 +1,9 @@
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\bin\Debug\netcoreapp3.1\MyArticle.DataAccess.deps.json
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\bin\Debug\netcoreapp3.1\MyArticle.DataAccess.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\bin\Debug\netcoreapp3.1\MyArticle.DataAccess.pdb
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.AssemblyInfo.cs
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.DataAccess\obj\Debug\netcoreapp3.1\MyArticle.DataAccess.pdb

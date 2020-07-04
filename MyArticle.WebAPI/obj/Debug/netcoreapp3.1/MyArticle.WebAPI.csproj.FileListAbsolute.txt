@@ -7,7 +7,6 @@ C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\My
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.WebAPI.runtimeconfig.dev.json
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.WebAPI.dll
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.WebAPI.pdb
-C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csprojAssemblyReference.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.AssemblyInfoInputs.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.AssemblyInfo.cs
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csproj.CoreCompileInputs.cache

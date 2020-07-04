@@ -1,0 +1,9 @@
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\bin\Debug\netcoreapp3.1\MyArticle.Business.deps.json
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\bin\Debug\netcoreapp3.1\MyArticle.Business.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\bin\Debug\netcoreapp3.1\MyArticle.Business.pdb
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.AssemblyInfo.cs
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.Business\obj\Debug\netcoreapp3.1\MyArticle.Business.pdb
