@@ -41,6 +41,8 @@ namespace MyArticle.WebAPI
             services.AddScoped(typeof(IAuthorDal), typeof(AuthorDal));
             services.AddScoped(typeof(ICategoryDal), typeof(CategoryDal));
             services.AddScoped(typeof(IAutoMapperBase), typeof(AutoMapperHelpers));
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddDbContext<MyContext>(options =>
             {
                 options.UseSqlServer(Configuration["ConnectionStrings:SqlConStr"].ToString(), o =>

@@ -50,8 +50,6 @@ C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\My
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csprojAssemblyReference.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.AssemblyInfoInputs.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.AssemblyInfo.cs
-C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csproj.CopyComplete
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MyArticle.WebAPI.StaticWebAssets.Manifest.cache
@@ -62,3 +60,9 @@ C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\My
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.Business.dll
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\MyArticle.Business.pdb
 C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\MyArticle\MyArticle.WebAPI\obj\Debug\netcoreapp3.1\MyArticle.WebAPI.MvcApplicationPartsAssemblyInfo.cache
