@@ -10,6 +10,9 @@ namespace MyArticle.DataAccess
 {
     public class MyContext : DbContext
     {
+        public MyContext(DbContextOptions<MyContext> options):base(options)
+        {
+        }
         public DbSet<Article> Articles { get; set; }
         public DbSet<Author> Authors { get; set; }
         public DbSet<Category> Categories { get; set; }
