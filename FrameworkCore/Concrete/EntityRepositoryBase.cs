@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace FrameworkCore.Concrete
 {
@@ -19,10 +20,11 @@ namespace FrameworkCore.Concrete
             _dbSet = dbContext.Set<TEntity>();
             _dbContext.SaveChanges();
         }
-        public void Add(TEntity entity)
+
+        public async Task Add(TEntity entity)
         {
-            _dbSet.Add(entity);
-            _dbContext.SaveChanges();
+            await _dbSet.AddAsync(entity);
+            await _dbContext.SaveChangesAsync();
         }
 
         public void Delete(TEntity entity)
@@ -31,17 +33,16 @@ namespace FrameworkCore.Concrete
             _dbContext.SaveChanges();
         }
 
-        public TEntity Get(Expression<Func<TEntity, bool>> filter)
+        public  Task<TEntity> Get(Expression<Func<TEntity, bool>> filter)
         {
-            return _dbSet.Include("Author").Include("Category").SingleOrDefault(filter);
-
+             return  _dbSet.Include("Author").Include("Category").SingleOrDefaultAsync(filter);
         }
 
         public List<TEntity> GetAll(Expression<Func<TEntity, bool>> filter = null)
         {
             return filter == null ?
-                 _dbSet.Include("Author").Include("Category").ToList() :
-                 _dbSet.Where(filter).ToList();
+                  _dbSet.Include("Author").Include("Category").ToList() :
+                  _dbSet.Where(filter).ToList();
         }
 
         public void Update(TEntity entity)

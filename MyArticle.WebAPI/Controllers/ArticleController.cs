@@ -29,17 +29,17 @@ namespace MyArticle.WebAPI.Controllers
             return Ok(_autoMapperBase.MapToSameTypeList<Article, ArticleDto>(articles));
         }
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public  async Task<IActionResult> GetById(int id)
         {
-            Article article = _articleService.GetArticle(id);
+            Article article =  await _articleService.GetArticle(id);
             return Ok(_autoMapperBase.MapToSameType<Article, ArticleDto>(article));
         }
         [HttpPost]
-        public IActionResult Save(ArticleDto articleDto)
+        public async Task<IActionResult> Save(ArticleDto articleDto)
         {
 
-            Article article = _autoMapperBase.MapToSameType<ArticleDto, Article>(articleDto);
-            _articleService.AddArticle(article);
+            Article article =  _autoMapperBase.MapToSameType<ArticleDto, Article>(articleDto);
+            await _articleService.AddArticle(article);
             return Created(string.Empty, article);
         }
         [HttpPut]

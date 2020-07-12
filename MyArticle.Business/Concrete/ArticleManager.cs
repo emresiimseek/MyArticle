@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace MyArticle.Business.Concrete
 {
@@ -16,9 +17,9 @@ namespace MyArticle.Business.Concrete
             _articleDal = articleDal;
         }
 
-        public void AddArticle(Article article)
+        public async Task AddArticle(Article article)
         {
-            _articleDal.Add(article);
+            await _articleDal.Add(article);
         }
 
         public void DeleteArticle(Article article)
@@ -26,10 +27,10 @@ namespace MyArticle.Business.Concrete
             _articleDal.Delete(article);
         }
 
-        public Article GetArticle(int Id)
+        public async Task<Article> GetArticle(int Id)
         {
 
-            return _articleDal.Get(x => x.Id == Id);
+            return await _articleDal.Get(x => x.Id == Id);
         }
 
         public List<Article> GetArticles()
